@@ -1,6 +1,6 @@
 {
   "name": "@farmerconnect/react-map-gl",
-  "version": "1.15.0",
+  "version": "1.14.4",
   "description": "React Component for Mapbox GL JS",
   "author": "Stepan Kuzmin <to.stepan.kuzmin@gmail.com> (stepankuzmin.com)",
   "contributors": [
@@ -42,9 +42,6 @@
     "size": "size-limit",
     "release": "npm run build && standard-version",
     "prepublishOnly": "npm run build",
-    "styleguide:build": "styleguidist build",
-    "styleguide:deploy": "gh-pages -m 'auto commit [ci skip]' -d styleguide",
-    "postpublish": "npm run styleguide:build && npm run styleguide:deploy",
     "prepare": "husky install"
   },
   "peerDependencies": {

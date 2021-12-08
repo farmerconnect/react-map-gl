@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.15.0](https://github.com/farmerconnect/react-map-gl/compare/v1.14.4...v1.15.0) (2021-12-08)
+
+
+### Features
+
+* add support for cooperativeGestures ([ac8d3c4](https://github.com/farmerconnect/react-map-gl/commit/ac8d3c432e34e4e4455d764eb45f8cdeaf5e499d))
+
 ### [1.14.4](https://github.com/urbica/react-map-gl/compare/v1.14.3...v1.14.4) (2021-11-11)
 
 
